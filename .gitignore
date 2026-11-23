@@ -1,0 +1,11 @@
+# Gerados pelo "node montar-deploy.js" (podem ser recriados a qualquer momento)
+deploy/
+miza-creative-vercel.zip
+
+# Configurações locais do editor/assistente
+.claude/
+
+# Arquivos do sistema
+Thumbs.db
+desktop.ini
+.DS_Store
